@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\user\\Documents\\Java Programs exercises\\CalculateLoan\\build\\classes\\java\\main;C:\\Users\\user\\Documents\\Java Programs exercises\\CalculateLoan\\build\\resources\\main'
+-d 'C:\\Users\\user\\Documents\\Java Programs exercises\\CalculateLoan\\build\\docs\\javadoc'
+-doctitle 'CalculateLoan API'
+-notimestamp 
+-quiet 
+-windowtitle 'CalculateLoan API'
+'C:\\Users\\user\\Documents\\Java Programs exercises\\CalculateLoan\\src\\main\\java\\CalculateLoanApp\\CalculateLoan.java'
+'C:\\Users\\user\\Documents\\Java Programs exercises\\CalculateLoan\\src\\main\\java\\CalculateLoanApp\\Main.java'
